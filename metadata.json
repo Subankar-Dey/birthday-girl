@@ -1,0 +1,6 @@
+{
+  "name": "Sumi's 21st Birthday | Futuristic Experience",
+  "description": "A futuristic two-stage 21st birthday celebration, neon holographic cake, 9-photo memory cards, and long-distance shayari experience for Sumi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
